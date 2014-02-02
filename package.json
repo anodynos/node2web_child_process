@@ -2,7 +2,7 @@
  "name": "child_process",
  "version": "3.24.10",
  "main": "child_process.min.js",
- "description": "'child_process' nodejs core module browserify-ied with `--standalone child_process`.\nSupports all module systems (commonjs, AMD & `window.child_process`) - check browserify docs.",
+ "description": "'child_process' nodejs core module browserify-ied with `--standalone child_process`. Should support all module systems (commonjs, AMD & `window.child_process`) - check browserify docs.",
  "keywords": [
   "nodejs",
   "browserify",
